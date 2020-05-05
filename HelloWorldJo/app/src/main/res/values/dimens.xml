@@ -1,9 +1,0 @@
-<resources>
-    <dimen name="fab_margin">16dp</dimen>
-    <dimen name="padding">10dp</dimen>
-    <dimen name="paddingLeft">20dp</dimen>
-    <dimen name="paddingRight">20dp</dimen>
-    <dimen name="marginTop">10dp</dimen>
-    <dimen name="marginTop2">40dp</dimen>
-    <dimen name="ems">10</dimen>
-</resources>
