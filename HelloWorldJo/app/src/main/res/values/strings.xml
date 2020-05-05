@@ -9,13 +9,17 @@
 
     <string name="hello_first_fragment">Hello World - Damo, Joette 04/21/20</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
-    <string name="enter_full_name">Enter Full Name</string>
-    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_full_name">Name</string>
+    <string name="enter_email_address">Email</string>
     <string name="enter_usename">Enter Usernane</string>
-    <string name="enter_age">Enter Age</string>
-    <string name="enter_dob">Enter DOB</string>
-    <string name="enter_description">Enter Description</string>
+    <string name="enter_age">Age</string>
+    <string name="enter_dob">DOB</string>
+    <string name="enter_description">Description of person</string>
     <string name="enter_occupation">Enter Occupation</string>
-    <string name="hint_username">Username</string>
+    <string name="enter_username">Username</string>
     <string name="signup_input_name">Name</string>
+    <string name="title">Register</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_back">BACK</string>
+    <string name="my_image_desc">Flowers</string>
 </resources>
